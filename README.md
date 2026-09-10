@@ -33,6 +33,9 @@ Compact payload with reliable electronics for data acquisition during and after 
   <em>PCB Rendering</em>
 </p>
 
+Final PCB was made to be a hat for the Raspberry Pi to be as compact as possible
+Raspberry Pi handled video collection and Teensy 4.1 on the PCB collected data from altimeter and monitored battery life
+
 <p align="center">
   <img src="Photos/firstpcb.png" width="600">
   <br>
