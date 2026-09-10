@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "CAD_from_Mouser")(type "KiCad")(uri "${KIPRJMOD}/CAD_from_Mouser.kicad_sym")(options "")(descr ""))
+)

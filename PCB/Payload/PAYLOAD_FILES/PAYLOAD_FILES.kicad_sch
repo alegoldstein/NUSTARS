@@ -1,0 +1,152 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "b6c4ecce-f051-418c-98ba-d9dc57040edf")
+	(paper "A4")
+	(lib_symbols)
+	(text "Payload Electronics"
+		(exclude_from_sim no)
+		(at 72.898 25.4 0)
+		(effects
+			(font
+				(size 7.62 7.62)
+				(thickness 0.9525)
+				(color 132 0 132 1)
+			)
+		)
+		(uuid "dfc68b9f-29f2-485a-839b-f87f1b246813")
+	)
+	(sheet
+		(at 189.23 57.15)
+		(size 50.8 36.83)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4eee7356-eec3-4c64-8c84-e416f90a439e")
+		(property "Sheetname" "Peripherals [2]"
+			(at 189.23 56.4384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "peripherals.kicad_sch"
+			(at 189.23 94.5646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PAYLOAD_FILES"
+				(path "/b6c4ecce-f051-418c-98ba-d9dc57040edf"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 113.03 58.42)
+		(size 69.85 40.64)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "67312ffa-293a-4e62-87fb-b0c0ec0d3d2c")
+		(property "Sheetname" "Power [1]"
+			(at 113.03 57.7084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 113.03 99.6446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PAYLOAD_FILES"
+				(path "/b6c4ecce-f051-418c-98ba-d9dc57040edf"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 41.91 58.42)
+		(size 59.69 40.64)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d6cb95a2-a322-4678-bf1f-4601cd83acee")
+		(property "Sheetname" "MCU (Microcontroller) [0]"
+			(at 41.91 57.7084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mcu.kicad_sch"
+			(at 41.91 99.6446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PAYLOAD_FILES"
+				(path "/b6c4ecce-f051-418c-98ba-d9dc57040edf"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

@@ -1,0 +1,117 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "ed144718-76fc-44fa-830c-acca98b1a569")
+	(paper "A4")
+	(lib_symbols)
+	(text "Peripherals"
+		(exclude_from_sim no)
+		(at 196.342 189.738 0)
+		(effects
+			(font
+				(size 1.778 1.778)
+				(thickness 0.254)
+				(bold yes)
+				(color 194 0 194 1)
+			)
+		)
+		(uuid "9ace8d9d-0c3b-4118-a663-e86fed2ff7d4")
+	)
+	(text "Peripherals"
+		(exclude_from_sim no)
+		(at 50.038 25.654 0)
+		(effects
+			(font
+				(size 7.62 7.62)
+				(thickness 0.9525)
+				(color 132 0 132 1)
+			)
+		)
+		(uuid "effa0113-6f8b-487b-b0fb-512dd10faa1c")
+	)
+	(sheet
+		(at 133.35 44.45)
+		(size 85.725 55.245)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "11774397-356f-4bc7-8894-3e1f13fedf60")
+		(property "Sheetname" "battery sensor"
+			(at 133.35 43.7384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "batterysensor.kicad_sch"
+			(at 133.35 100.2796 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PAYLOAD_FILES"
+				(path "/b6c4ecce-f051-418c-98ba-d9dc57040edf/4eee7356-eec3-4c64-8c84-e416f90a439e"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 27.305 45.72)
+		(size 91.44 54.61)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "66f4d1d0-0572-41c0-93fd-2b706ad808ca")
+		(property "Sheetname" "altimeter"
+			(at 27.305 45.0084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "altimeter.kicad_sch"
+			(at 27.305 100.9146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PAYLOAD_FILES"
+				(path "/b6c4ecce-f051-418c-98ba-d9dc57040edf/4eee7356-eec3-4c64-8c84-e416f90a439e"
+					(page "5")
+				)
+			)
+		)
+	)
+)
