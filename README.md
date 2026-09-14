@@ -16,13 +16,13 @@ Compact payload with reliable electronics for data acquisition during and after 
 
 
 <p align="center">
-  <img src="Photos/render.png" width="800">
+  <img src="Photos/schematic.png" width="750">
   <br>
   <em>PCB Schematic</em>
 </p>
 
 <p align="center">
-  <img src="Photos/routing.png" width="800">
+  <img src="Photos/routing.png" width="600">
   <br>
   <em>PCB Routing</em>
 </p>
