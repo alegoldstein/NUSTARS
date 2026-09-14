@@ -13,19 +13,19 @@ Steps Taken:
 Outcome:
 Compact payload with reliable electronics for data acquisition during and after launch.
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="Photos/schematic.png" width="500"><br>
-      <em>PCB Schematic</em>
-    </td>
-    <td align="center">
-      <img src="Photos/routing.png" width="500"><br>
-      <em>PCB Routing</em>
-    </td>
-  </tr>
-</table>
 
+
+<p align="center">
+  <img src="Photos/render.png" width="800">
+  <br>
+  <em>PCB Schematic</em>
+</p>
+
+<p align="center">
+  <img src="Photos/routing.png" width="800">
+  <br>
+  <em>PCB Routing</em>
+</p>
 
 <p align="center">
   <img src="Photos/render.png" width="600">
